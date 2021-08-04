@@ -167,136 +167,128 @@ portfolio-home-items:
 # Portfolio Page
 portfolio-label:
 - {
-    title : "UI/UX Design",
-    type : "design"
-  }
-- {
-    title : "BRANDING",
-    type : "branding"
-  }
-- {
-    title : "ILLUSTRATION",
-    type : "illustration"
+    title : "3D Printing",
+    type : "3D Printing"
   }
 
 portfolio-items:
   - image : "assets/images/portfolio/item-1.png"
     url: "#"
     portfolio-type:
-     - type: "design"
+     - type: "3D Printing"
      - type: "illustration"
       
   - image : "assets/images/portfolio/item-2.png"
     url: "#"
     portfolio-type:
-     - type: "design"
+     - type: "3D Printing"
      - type: "illustration"
 
   - image : "assets/images/portfolio/item-14.png"
     url: "#"
     portfolio-type:
-     - type: "design"
+     - type: "3D Printing"
      - type: "illustration"
       
   - image : "assets/images/portfolio/item-4.png"
     url: "#"
     portfolio-type:
-     - type: "design"
+     - type: "3D Printing"
      - type: "illustration"
 
   - image : "assets/images/portfolio/item-5.png"
     url: "#"
     portfolio-type:
-     - type: "design"
+     - type: "3D Printing"
      - type: "illustration"
       
   - image : "assets/images/portfolio/item-6.png"
     url: "#"
     portfolio-type:
-     - type: "design"
+     - type: "3D Printing"
      - type: "illustration"
 
   - image : "assets/images/portfolio/item-7.png"
     url: "#"
     portfolio-type:
-     - type: "design"
+     - type: "3D Printing"
      - type: "illustration"
       
   - image : "assets/images/portfolio/item-8.png"
     url: "#"
     portfolio-type:
-     - type: "design"
+     - type: "3D Printing"
      - type: "illustration"
 
   - image : "assets/images/portfolio/item-9.png"
     url: "#"
     portfolio-type:
-     - type: "design"
+     - type: "3D Printing"
      - type: "illustration"
       
   - image : "assets/images/portfolio/item-10.png"
     url: "#"
     portfolio-type:
-     - type: "design"
+     - type: "3D Printing"
      - type: "illustration"
 
   - image : "assets/images/portfolio/item-10.png"
     url: "#"
     portfolio-type:
-     - type: "design"
+     - type: "3D Printing"
      - type: "illustration"
 
   - image : "assets/images/portfolio/item-11.png"
     url: "#"
     portfolio-type:
-     - type: "design"
+     - type: "3D Printing"
      - type: "illustration"
 
   - image : "assets/images/portfolio/item-12.png"
     url: "#"
     portfolio-type:
-     - type: "design"
+     - type: "3D Printing"
      - type: "illustration"
 
   - image : "assets/images/portfolio/item-13.png"
     url: "#"
     portfolio-type:
-     - type: "design"
+     - type: "3D Printing"
      - type: "illustration"
      
  
   - image : "assets/images/portfolio/item-14.png"
     url: "#"
     portfolio-type:
-     - type: "design"
+     - type: "3D Printing"
      - type: "illustration"
   
  
   - image : "assets/images/portfolio/item-15.png"
     url: "#"
     portfolio-type:
-     - type: "design"
+     - type: "3D Printing"
      - type: "illustration"
 
 
   - image : "assets/images/portfolio/item-16.png"
     url: "#"
     portfolio-type:
-     - type: "design"
+     - type: "3D Printing"
      - type: "illustration"
      
  
   - image : "assets/images/portfolio/item-17.png"
     url: "#"
     portfolio-type:
-     - type: "design"
+     - type: "3D Printing"
      - type: "illustration"
   
  
   - image : "assets/images/portfolio/item-18.png"
     url: "#"
     portfolio-type:
-     - type: "design"
+     - type: "3D Printing"
      - type: "illustration"
 #-------------------------------
 # Testimonials Section
