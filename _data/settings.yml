@@ -49,9 +49,6 @@ hero:
 # About (Section and Page)
 
 # About Section
-blurb:
-  Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-
 blurb-btn-link: '/about'
 blurb-btn-name: know more
 
@@ -113,8 +110,8 @@ experience:
 
 education-title: Education
 education:
-- {name: Masters in Aeronautical Engineering, date: '2016', organization: 'Jain College'}
-- {name: Bachelors in Mechanical Engineering, date: '2013', organization: 'City Engineering College'}
+- {name: Masters in Aircraft Propulsion, date: '2017', organization: 'Jain (Deemed to-be) University'}
+- {name: Bachelors in Mechanical Engineering, date: '2014', organization: 'City Engineering College'}
 
 #-------------------------------
 # Services Section
@@ -147,19 +144,19 @@ education:
 
 # Portfolio Home Section
 portfolio-home-items:
-  - image : "assets/images/portfolio/item-1.png"
+  - image : "assets/images/portfolio/Item-1.png"
     url: "#"
     
-  - image : "assets/images/portfolio/item-2.png"
+  - image : "assets/images/portfolio/Item-2.png"
     url: "#"
     
-  - image : "assets/images/portfolio/item-6.png"
+  - image : "assets/images/portfolio/Item-3.png"
     url: "#"
     
-  - image : "assets/images/portfolio/item-4.png"
+  - image : "assets/images/portfolio/Item-4.png"
     url: "#"
     
-  - image : "assets/images/portfolio/item-5.png"
+  - image : "assets/images/portfolio/Item-5.png"
     url: "#"
 
 
