@@ -11,7 +11,6 @@ copyright: Copyright &copy; 2021 Mark Vailshery. Template Credits - [Themefisher
 
 menu:
 - {name: About, link: '/about'}
-- {name: Blog, link: '/blog'}
 - {name: Portfolio, link: '/portfolio'}
 - {name: Contact, link: '/contact'}
 
@@ -37,7 +36,7 @@ disqus-identifier: # Add your shortname for Disqus Comment. For example mr-brown
 # Hero Section
 
 hero:
-  hero-title: Hi! I’m <br> Mark <br> Engineer and Designer
+  hero-title: Hi! I’m <br> Mark, <br> Engineer and Designer
 
 social:
 - {icon: "ti-facebook", link: "#"}
@@ -155,7 +154,7 @@ portfolio-home-items:
   - image : "assets/images/portfolio/item-2.png"
     url: "#"
     
-  - image : "assets/images/portfolio/item-3.png"
+  - image : "assets/images/portfolio/item-6.png"
     url: "#"
     
   - image : "assets/images/portfolio/item-4.png"
@@ -193,7 +192,7 @@ portfolio-items:
      - type: "design"
      - type: "illustration"
 
-  - image : "assets/images/portfolio/item-3.png"
+  - image : "assets/images/portfolio/item-14.png"
     url: "#"
     portfolio-type:
      - type: "design"
@@ -264,7 +263,41 @@ portfolio-items:
     portfolio-type:
      - type: "design"
      - type: "illustration"
+     
+ 
+  - image : "assets/images/portfolio/item-14.png"
+    url: "#"
+    portfolio-type:
+     - type: "design"
+     - type: "illustration"
+  
+ 
+  - image : "assets/images/portfolio/item-15.png"
+    url: "#"
+    portfolio-type:
+     - type: "design"
+     - type: "illustration"
 
+
+  - image : "assets/images/portfolio/item-16.png"
+    url: "#"
+    portfolio-type:
+     - type: "design"
+     - type: "illustration"
+     
+ 
+  - image : "assets/images/portfolio/item-17.png"
+    url: "#"
+    portfolio-type:
+     - type: "design"
+     - type: "illustration"
+  
+ 
+  - image : "assets/images/portfolio/item-18.png"
+    url: "#"
+    portfolio-type:
+     - type: "design"
+     - type: "illustration"
 #-------------------------------
 # Testimonials Section
 
