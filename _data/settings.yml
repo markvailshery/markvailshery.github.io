@@ -190,46 +190,80 @@ portfolio-items:
   - image : "assets/images/portfolio/item-2.png"
     url: "#"
     portfolio-type:
-      - type: "branding"
-      
+     - type: "design"
+     - type: "illustration"
+
   - image : "assets/images/portfolio/item-3.png"
     url: "#"
     portfolio-type:
-      - type: "illustration"
+     - type: "design"
+     - type: "illustration"
+      
+  - image : "assets/images/portfolio/item-4.png"
+    url: "#"
+    portfolio-type:
+     - type: "design"
+     - type: "illustration"
+
+  - image : "assets/images/portfolio/item-5.png"
+    url: "#"
+    portfolio-type:
+     - type: "design"
+     - type: "illustration"
       
   - image : "assets/images/portfolio/item-6.png"
     url: "#"
     portfolio-type:
-      - type: "design"
-      - type: "branding"
+     - type: "design"
+     - type: "illustration"
+
+  - image : "assets/images/portfolio/item-7.png"
+    url: "#"
+    portfolio-type:
+     - type: "design"
+     - type: "illustration"
       
   - image : "assets/images/portfolio/item-8.png"
     url: "#"
     portfolio-type:
-      - type: "illustration"
-      
-  - image : "assets/images/portfolio/item-5.png"
-    url: "#"
-    portfolio-type:
-      - type: "design"
-      
-  - image : "assets/images/portfolio/item-1.png"
-    url: "#"
-    portfolio-type:
-      - type: "branding"
-      
-  - image : "assets/images/portfolio/item-3.png"
-    url: "#"
-    portfolio-type:
-      - type: "design"
-      - type: "illustration"
-      - type: "branding"
-      
-  - image : "assets/images/portfolio/item-7.png"
-    url: "#"
-    portfolio-type:
-      - type: "illustration"
+     - type: "design"
+     - type: "illustration"
 
+  - image : "assets/images/portfolio/item-9.png"
+    url: "#"
+    portfolio-type:
+     - type: "design"
+     - type: "illustration"
+      
+  - image : "assets/images/portfolio/item-10.png"
+    url: "#"
+    portfolio-type:
+     - type: "design"
+     - type: "illustration"
+
+  - image : "assets/images/portfolio/item-10.png"
+    url: "#"
+    portfolio-type:
+     - type: "design"
+     - type: "illustration"
+
+  - image : "assets/images/portfolio/item-11.png"
+    url: "#"
+    portfolio-type:
+     - type: "design"
+     - type: "illustration"
+
+  - image : "assets/images/portfolio/item-12.png"
+    url: "#"
+    portfolio-type:
+     - type: "design"
+     - type: "illustration"
+
+  - image : "assets/images/portfolio/item-13.png"
+    url: "#"
+    portfolio-type:
+     - type: "design"
+     - type: "illustration"
 
 #-------------------------------
 # Testimonials Section
