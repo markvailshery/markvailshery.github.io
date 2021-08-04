@@ -171,120 +171,99 @@ portfolio-label:
   }
 
 portfolio-items:
-  - image : "assets/images/portfolio/item-1.png"
+  - image : "assets/images/portfolio/Item-1.png"
     url: "#"
     portfolio-type:
      - type: "3D Printing"
      - type: "illustration"
       
-  - image : "assets/images/portfolio/item-2.png"
+  - image : "assets/images/portfolio/Item-2.png"
     url: "#"
     portfolio-type:
      - type: "3D Printing"
      - type: "illustration"
 
-  - image : "assets/images/portfolio/item-14.png"
+  - image : "assets/images/portfolio/Item-3.png"
     url: "#"
     portfolio-type:
      - type: "3D Printing"
      - type: "illustration"
       
-  - image : "assets/images/portfolio/item-4.png"
+  - image : "assets/images/portfolio/Item-4.png"
     url: "#"
     portfolio-type:
      - type: "3D Printing"
      - type: "illustration"
 
-  - image : "assets/images/portfolio/item-5.png"
+  - image : "assets/images/portfolio/Item-5.png"
     url: "#"
     portfolio-type:
      - type: "3D Printing"
      - type: "illustration"
       
-  - image : "assets/images/portfolio/item-6.png"
+  - image : "assets/images/portfolio/Item-6.png"
     url: "#"
     portfolio-type:
      - type: "3D Printing"
      - type: "illustration"
 
-  - image : "assets/images/portfolio/item-7.png"
+  - image : "assets/images/portfolio/Item-7.png"
     url: "#"
     portfolio-type:
      - type: "3D Printing"
      - type: "illustration"
       
-  - image : "assets/images/portfolio/item-8.png"
+  - image : "assets/images/portfolio/Item-8.png"
     url: "#"
     portfolio-type:
      - type: "3D Printing"
      - type: "illustration"
 
-  - image : "assets/images/portfolio/item-9.png"
+  - image : "assets/images/portfolio/Item-9.png"
     url: "#"
     portfolio-type:
      - type: "3D Printing"
      - type: "illustration"
       
-  - image : "assets/images/portfolio/item-10.png"
+  - image : "assets/images/portfolio/Item-10.png"
     url: "#"
     portfolio-type:
      - type: "3D Printing"
      - type: "illustration"
 
-  - image : "assets/images/portfolio/item-10.png"
+  - image : "assets/images/portfolio/Item-11.png"
     url: "#"
     portfolio-type:
      - type: "3D Printing"
      - type: "illustration"
 
-  - image : "assets/images/portfolio/item-11.png"
+  - image : "assets/images/portfolio/Item-12.png"
     url: "#"
     portfolio-type:
      - type: "3D Printing"
      - type: "illustration"
 
-  - image : "assets/images/portfolio/item-12.png"
+  - image : "assets/images/portfolio/Item-13.png"
     url: "#"
     portfolio-type:
      - type: "3D Printing"
      - type: "illustration"
 
-  - image : "assets/images/portfolio/item-13.png"
+  - image : "assets/images/portfolio/Isometric-dental-tool.png"
     url: "#"
     portfolio-type:
      - type: "3D Printing"
      - type: "illustration"
      
  
-  - image : "assets/images/portfolio/item-14.png"
+  - image : "assets/images/portfolio/Isometric-dental-too2.png"
     url: "#"
     portfolio-type:
      - type: "3D Printing"
      - type: "illustration"
   
  
-  - image : "assets/images/portfolio/item-15.png"
-    url: "#"
-    portfolio-type:
-     - type: "3D Printing"
-     - type: "illustration"
-
-
-  - image : "assets/images/portfolio/item-16.png"
-    url: "#"
-    portfolio-type:
-     - type: "3D Printing"
-     - type: "illustration"
-     
- 
-  - image : "assets/images/portfolio/item-17.png"
-    url: "#"
-    portfolio-type:
-     - type: "3D Printing"
-     - type: "illustration"
-  
- 
-  - image : "assets/images/portfolio/item-18.png"
+  - image : "assets/images/portfolio/Isometric-dental-too3.png"
     url: "#"
     portfolio-type:
      - type: "3D Printing"
