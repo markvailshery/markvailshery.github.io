@@ -145,19 +145,19 @@ education:
 # Portfolio Home Section
 portfolio-home-items:
   - image : "assets/images/portfolio/Item-1.png"
-    url: "#"
+    url: "/portfolio"
     
   - image : "assets/images/portfolio/Item-2.png"
-    url: "#"
+    url: "/portfolio"
     
   - image : "assets/images/portfolio/Item-3.png"
-    url: "#"
+    url: "/portfolio"
     
   - image : "assets/images/portfolio/Item-4.png"
-    url: "#"
+    url: "/portfolio"
     
   - image : "assets/images/portfolio/Item-5.png"
-    url: "#"
+    url: "/portfolio"
 
 
 # Portfolio Page
