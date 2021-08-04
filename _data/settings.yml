@@ -38,11 +38,11 @@ disqus-identifier: # Add your shortname for Disqus Comment. For example mr-brown
 hero:
   hero-title: Hi! I’m <br> Mark, <br> Engineer and Designer
 
-social:
-- {icon: "ti-facebook", link: "#"}
-- {icon: "ti-instagram", link: "#"}
-- {icon: "ti-dribbble", link: "#"}
-- {icon: "ti-twitter", link: "#"}
+# social:
+# - {icon: "ti-facebook", link: "#"}
+# - {icon: "ti-instagram", link: "#"}
+# - {icon: "ti-dribbble", link: "#"}
+# - {icon: "ti-twitter", link: "#"}
 
 
 #-------------------------------
@@ -104,10 +104,8 @@ skills:
 
 experience-title: Experience
 experience:
-- {name: Junior UX Designer, icon: 'icon-1.png', date: 'Jan 2007 - Feb 2009', organization: 'WEBEX'}
-- {name: UX & UI Designer, icon: 'icon-2.png', date: 'Mar 2009 - Aug 2014', organization: 'AUGMEDIX'}
-- {name: Senior UI Designer, icon: 'icon-3.png', date: 'Sep 2014 - Present', organization: 'THEMEFISHER'}
-
+- {name: Technical Consultant, icon: 'icon-1.png', date: 'Jun 2019 - Present', organization: 'Gear Innovation'}
+- {name: Lead Engineer, icon: 'icon-2.png', date: 'Mar 2018 - Present', organization: 'Axesmap'}
 
 #-------------------------------
 # Education Section
