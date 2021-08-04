@@ -93,10 +93,11 @@ blurb-btn-name: know more
 
 skills-title: Skills
 skills:
-- {name: AutoCAD, color: '#fdb157', value: '90%'}
-- {name: One, color: '#9473e6', value: '60%'}
-- {name: Two, color: '#bdecf6', value: '80%'}
-- {name: Three, color: '#ffbcaa', value: '70%'}
+- {name: 2D-CAD, color: '#9473e6', value: '90%'}
+- {name: 3D-CAD, color: '#bdecf6', value: '60%'}
+- {name: 3D-Printing, color: '#ffbcaa', value: '85%'}
+- {name: Freehand Sketching, color: '#ffbcaa', value: '85%'}
+- {name: Conceptualization, color: '#ffbcaa', value: '85%'}
 
 
 #-------------------------------
