@@ -94,10 +94,10 @@ blurb-btn-name: know more
 
 skills-title: Skills
 skills:
-- {name: Web Design, color: '#fdb157', value: '90%'}
-- {name: Logo Design, color: '#9473e6', value: '60%'}
-- {name: After Effects, color: '#bdecf6', value: '80%'}
-- {name: Web App, color: '#ffbcaa', value: '70%'}
+- {name: AutoCAD, color: '#fdb157', value: '90%'}
+- {name: One, color: '#9473e6', value: '60%'}
+- {name: Two, color: '#bdecf6', value: '80%'}
+- {name: Three, color: '#ffbcaa', value: '70%'}
 
 
 #-------------------------------
@@ -115,11 +115,8 @@ experience:
 
 education-title: Education
 education:
-- {name: Marters in UX Design, date: '2006', organization: 'Masassusets Institute of Technology'}
-- {name: Honours in Fine Arts, date: '2004', organization: 'Harvard University'}
-- {name: Higher Secondary Certificat, date: '2000', organization: 'Cardiff School'}
-- {name: Secondary School Certificate, date: '1998', organization: 'Cardiff School'}
-
+- {name: Masters in Aeronautical Engineering, date: '2016', organization: 'Jain College'}
+- {name: Bachelors in Mechanical Engineering, date: '2013', organization: 'City Engineering College'}
 
 #-------------------------------
 # Services Section
